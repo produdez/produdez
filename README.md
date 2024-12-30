@@ -12,9 +12,9 @@ You can find my footprint on the internet here ... 🌎
 
 ## 🌱 What I Do
 
--   🎨 Building beautiful user experiences with Svelte and Vue.js
--   🏗️ Crafting robust backend systems with Laravel
--   🤖 Exploring ML and LLM applications in web development
+-   🎨 Building beautiful user experiences with Svelte and Tailwind 💯
+-   🏗️ Crafting robust backend systems with Laravel, Node or Python
+-   🤖 Exploring ML and LLM applications in web development, i dabble in Pytorch sometimes 😛️
 -   ✍️ Sharing knowledge and experiences through writing and open source
 
 ## 🛠️ Tech Stack
