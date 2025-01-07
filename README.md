@@ -1,5 +1,7 @@
 ## 👋 Hi there! ✨
 
+[![Website](https://img.shields.io/badge/produde.fyi-8B4513?style=for-the-badge&logo=anaconda&logoColor=white)](https://produde.fyi)
+
 I'm Trần Hoàng Long (Produde), a developer specializing in ML and web development. I'm a curious mind who's always excited to learn new things and share knowledge with others. I love building things for the web and exploring the intersection of machine learning and software development. 🚀
 
 You can find my footprint on the internet here ... 🌎
